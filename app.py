@@ -249,8 +249,6 @@ elif mode == "🖼 Image Analysis":
                     "content": answer
                 }
             )
-    else:
-        st.info("⬅ Upload an image from the sidebar to begin.")
 
 
 elif mode == "🎙️ Voice Assistant":
