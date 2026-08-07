@@ -3,6 +3,7 @@ pypdf
 langchain
 langchain-core
 langchain-groq
+langchain-text-splitters
 faiss-cpu
 sentence-transformers
 python-dotenv
