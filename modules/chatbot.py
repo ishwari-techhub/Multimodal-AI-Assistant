@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 
 load_dotenv()
-print("API KEY:", os.getenv("GROQ_API"))
+
 
 llm = ChatGroq(
     model="llama-3.3-70b-versatile",
